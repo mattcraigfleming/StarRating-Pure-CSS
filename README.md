@@ -1,5 +1,5 @@
 # StarRating-Pure-CSS
-------
+
 ##A Pure lightweight CSS/HTML implementation of a 5 Star Rating component
 
 ###Features:
