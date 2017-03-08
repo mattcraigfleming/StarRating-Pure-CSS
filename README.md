@@ -8,4 +8,4 @@
 + No icon sets
 + No 3rd Party dependencies
 
-[https://github.com/mfleming1989/StarRating-Pure-CSS/blob/master/LICENSE][License]
+[License](https://github.com/mfleming1989/StarRating-Pure-CSS/blob/master/LICENSE)
